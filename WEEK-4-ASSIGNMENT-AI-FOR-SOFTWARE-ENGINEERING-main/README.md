@@ -1,28 +1,10 @@
-# 📘 WEEK 4 ASSIGNMENT – AI for Software Engineering
+#  WEEK 4 ASSIGNMENT – AI for Software Engineering
 
 **PLP Academy**
 
----
+##  Part 1: Theoretical Analysis (30%)
 
-## 👥 Contributors – Group 61
-
-| Name          | Email                                                             |
-| ------------- | ----------------------------------------------------------------- |
-| Joyce Njihia  | [nyamburanjihia@gmail.com](mailto:nyamburanjihia@gmail.com)       |
-| Gospel Arinze | [gospelarinzestuff@gmail.com](mailto:gospelarinzestuff@gmail.com) |
-| Ling Mukiri   | [lingmukiri13@gmail.com](mailto:lingmukiri13@gmail.com)           |
-| Juma Calvin   | [jumacavin28@gmail.com](mailto:jumacavin28@gmail.com)             |
-| Esther Trizar | [esthertrizar@gmail.com](mailto:esthertrizar@gmail.com)           |
-
----
-
-*This assignment was collaboratively completed as part of PLP Academy's AI for Software Engineering module.*
-
----
-
-## 📚 Part 1: Theoretical Analysis (30%)
-
-### ✅ Short Answer Questions
+###  Short Answer Questions
 
 1. **AI-Driven Code Generation (e.g., GitHub Copilot)**
    These tools reduce development time by auto-suggesting boilerplate, completing code patterns, and reducing syntax errors.
@@ -38,7 +20,7 @@
 
 ---
 
-### 📄 Case Study: AI in DevOps
+###  Case Study: AI in DevOps
 
 **AIOps (AI for IT Operations)** enhances deployment by:
 
@@ -50,9 +32,9 @@
 
 ---
 
-## 🔧 Part 2: Practical Implementation (60%)
+##  Part 2: Practical Implementation (60%)
 
-### 🧠 Task 1: AI-Powered Code Completion
+###  Task 1: AI-Powered Code Completion
 
 **Tool Used:** GitHub Copilot
 
@@ -64,47 +46,47 @@ GitHub Copilot significantly reduced development time by generating a functional
 
 ---
 
-### 🧪 Task 2: AI-Based Automated Testing
+###  Task 2: AI-Based Automated Testing
 
 **Tool Used:** Selenium IDE + AI Plugin
 **Test Case:** Login Page (Valid + Invalid Credentials)
 
 * **Deliverables:**
 
-  * ✅ Test script for form validation
-  * 📸 Screenshot of test results
-  * 💬 150-word Summary
+  *  Test script for form validation
+  *  Screenshot of test results
+  *  150-word Summary
 
 **Summary:**
 AI-enhanced Selenium plugins improved test coverage by auto-suggesting common failure points and edge cases. Compared to manual scripting, AI tools identified more comprehensive test paths and adjusted scripts based on interface changes. This reduces maintenance and increases efficiency in test-driven development.
 
 ---
 
-### 📈 Task 3: Predictive Analytics for Resource Allocation
+###  Task 3: Predictive Analytics for Resource Allocation
 
 **Dataset:** Kaggle Breast Cancer Dataset
 **Model Used:** Random Forest Classifier
 **Goal:** Predict issue priority (High, Medium, Low)
 
-* ✅ Data preprocessing: label encoding, normalization, and splitting
-* ✅ Model training and validation
-* 📊 Metrics: Accuracy: 95.2%, F1-score: 93.8%
+*  Data preprocessing: label encoding, normalization, and splitting
+*  Model training and validation
+*  Metrics: Accuracy: 95.2%, F1-score: 93.8%
 
 **Deliverables:**
 
-* 📓 Jupyter Notebook
-* 📈 Confusion Matrix + Performance Report
+*  Jupyter Notebook
+*  Confusion Matrix + Performance Report
 
 ---
 
-## 🌐 Part 3: Ethical Reflection (10%)
+##  Part 3: Ethical Reflection (10%)
 
 AI systems risk bias if historical data reflects inequality (e.g., underrepresented teams getting fewer high-priority issues).
 Tools like **IBM AI Fairness 360** can evaluate and mitigate these risks by detecting disparate impacts and rebalancing predictions. Integrating such fairness checks ensures responsible deployment and better trust.
 
 ---
 
-## 💡 Bonus Task (Optional – 10%)
+##  Bonus Task (Optional – 10%)
 
 ### Innovation Proposal: AutoDocAI
 
@@ -136,15 +118,5 @@ project-root/
 ├── 📄 requirements.txt       # Python dependencies
 └── 📄 ethical_reflection.md  # Detailed fairness write-up
 ```
-
----
-
-### 📩 Contact
-
-**Gospel Ifeyichukwu Arinze**
-📧 [ifeyichukwuarinze@gmail.com](mailto:ifeyichukwuarinze@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/gospel-arinze-55590424a/)
-
----
 
 *This project is part of the PLP Academy “AI for Software Engineering” track, submitted for Week 4 assignment evaluation.*
